@@ -1,0 +1,5 @@
+Flask==1.1.4
+requests==2.31.0
+flask-restplus==0.13.0
+flask-restx==0.1.1
+markupsafe==2.0.1
